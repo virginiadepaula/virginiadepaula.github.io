@@ -1,0 +1,131 @@
+{
+    "main": {
+        "name": "Virginia Campos",
+        "description": "Desenvolvedora backend e mobile, com as linguagens .Net, Powerbuilder e Android Java e Kotlin",
+        "image": "profilepic.jpg",
+        "bio": "Tenho experiencia em desenvolvimento desktop de sistemas para a saúde e bancário, desenvolvendo API para integração com potal WEB, em mobile desenvolvi, aplicativo e biblioteca de integração com o firmware de equipamento bluetooth.",
+        "contactmessage": "Esses são os meus contatos",
+        "email": "virginiapscampos@gmail.com",
+        "phone": "+55 71 99194-3194",
+        "github": "https://github.com/virginiadepaula",
+        "project": "https://github.com/virginiadepaula/BLEDemo",
+        "address": {
+            "street": "",
+            "city": "Salvador",
+            "state": "- BA"
+        },
+        "website": "https://github.com/virginiadepaula/virginiadepaula.github.io.git",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/virginia-campos-5917a50/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/virginiadepaula",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Universidade Federal da Bahia",
+                "degree": "Bacharelado em Engenharia da Computação",
+                "graduated": "Dezembro 2019",
+                "description": "Dentro do ambiente academico além do aprendizado para a formação em Engenharia tive uma experiencia incrivel em empreendedorismo participando voluntariamente da empresa junior InforJr UFBA."
+            },
+            {
+                "school": "Instituto Carreira",
+                "degree": "Especialização em Engenharia de Software e Gestão de Projetos",
+                "graduated": "Abril 2022",
+                "description": "Estou obtendo uma visão critica do uso da Engenharia de Software no desenvolvimento de sistemas atrelado a conceitos e técnicas da gestão de projetos ."
+            }
+        ],
+        "work": [
+            {
+                "company": "Capgemini",
+                "title": "Analista de Sistemas Sr",
+                "years": "Outubro 2020 - Atual",
+                "description": "Desenvolvimento de sistemas para a área bancária, sistemas desktop, mobile, web api, tendo como principais linguagens e frameworks Powerbuilder, .Net e Android, bancos de dados SQL Server e IBM DB2, metodologia de desenvolvimento ágil Scrum."
+            },
+            {
+                "company": "Pixeon Medical Systems",
+                "title": "Analista de Sistemas Jr",
+                "years": "Março 2013 - Setembro 2020",
+                "description": "Desenvolvimento de sistemas para a saúde, integração de equipamentos laboratoriais, integração de sistemas via webservices, linguagens .Net e Powerbuilder, bancos de dados SQL Server, Oracle e SapDB."
+            },
+            {
+                "company": "Empresa Junior de Informatica(InfoJr-UFBA)",
+                "title": "Empresário Jr",
+                "years": "Maio 2010 - Maio 2012",
+                "description": "Desenvolvimento de sistemas de gerenciamento de materiais e site para buffet, utilizando as linguagens PHP, HTML e CSS, banco de dados MySql, metodologia de desenvolvimento ágil Scrum."
+            }
+        ],
+        "skills": [
+            {
+                "name": ".Net",
+                "level": "60%"
+            },
+            {
+                "name": "Powerbuilder",
+                "level": "80%"
+            },
+            {
+                "name": "Android Java",
+                "level": "50%"
+            },
+            {
+                "name": "Kotlin",
+                "level": "70%"
+            },
+            {
+                "name": "Scrum",
+                "level": "80%"
+            },
+            {
+                "name": "PHP",
+                "level": "50%"
+            },
+            {
+                "name": "HTML",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "50%"
+            },
+            {
+                "name": "Git, github, TFS, SVN, RTC",
+                "level": "80%"
+            },
+            {
+                "name": "Banco de dados",
+                "level": "60%"
+            },
+            {
+                "name": "Trello, Jira e Slack",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Movies",
+                "category": "Aplicativo desenvolvido em Kotlin, arquitetura MVVM, para consumir uma Restfull API publica.",
+                "image": "project1.jpg",
+                "url": "https://github.com/virginiadepaula/Movies/"
+            },
+            {
+                "title": "BLE Demo",
+                "category": "Biblioteca e Aplicativo para integração com firmwarede equipamento via Bluetooh Low Batery(BLE).",
+                "image": "project2.jpg",
+                "url": "https://github.com/virginiadepaula/BLEDemo"
+            }
+        ]
+    }
+}
